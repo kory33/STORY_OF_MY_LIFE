@@ -1,9 +1,13 @@
 # STORY_OF_MY_LIFE
-Github Repository for my life to do.
+GitHub repository for TODOs in my life.
 
 ## Contributes
-If you have compliant for my life, Please make a issue to this repository.
+If you have a complaint against my life, please make an issue in this repository.
 
 ## Policy to Pull Requests
-PRs welcome If you have any anti-complain solutions for my life.
-My grandma told when I having a complain, 'If you haven't any solution, MUST DON'T MAKE A ISSUE TO HIM.' XD
+PRs are welcome if you have got any solution to the issue.
+
+When I had a complaint, my grandma told me:
+> If you have got no solution, YOU MUST NOT MAKE AN ISSUE TO HIM.
+
+XD
